@@ -9,8 +9,6 @@ namespace HelloWorld
             Console.WriteLine("Hello World!");
             Console.WriteLine();
 
-            Console.WriteLine("Modification");
-
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
         }
